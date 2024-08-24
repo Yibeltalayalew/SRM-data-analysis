@@ -1,6 +1,6 @@
-**Project: Solar Radiation Measurement Data Analysis**
+**Data Analysis**
 
-**Overview**
+
 
 This project analyzes solar radiation measurement data, along with various environmental parameters, to gain insights into solar energy patterns and potential applications. Key areas of focus include:
 
