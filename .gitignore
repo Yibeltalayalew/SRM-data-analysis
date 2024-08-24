@@ -1,0 +1,7 @@
+
+#ignore bash_history
+.bash_history
+
+# Ignore local environment configurations
+./venv
+
